@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserInfoApp</string>
+    <string name="setting">設定</string>
+    <string name="init">初期化</string>
+    <string name="edit">修正</string>
+    <string name="userName">ユーザー名：</string>
+    <string name="userAge">年齢：</string>
+    <string name="userHeight">身長：</string>
+</resources>
