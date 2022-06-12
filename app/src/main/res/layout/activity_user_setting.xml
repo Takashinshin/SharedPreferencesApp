@@ -25,8 +25,9 @@
                 android:text="@string/userName"/>
             <EditText
                 android:id="@+id/editUserName"
-                android:layout_width="100dp"
-                android:layout_height="wrap_content"/>
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="text"/>
         </LinearLayout>
 
         <LinearLayout
@@ -39,8 +40,9 @@
                 android:text="@string/userAge"/>
             <EditText
                 android:id="@+id/editUserAge"
-                android:layout_width="40dp"
-                android:layout_height="wrap_content"/>
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:inputType="number"/>
         </LinearLayout>
 
         <LinearLayout
@@ -53,7 +55,7 @@
                 android:text="@string/userHeight"/>
             <EditText
                 android:id="@+id/editUserHeight"
-                android:layout_width="60dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
         </LinearLayout>
     </LinearLayout>
